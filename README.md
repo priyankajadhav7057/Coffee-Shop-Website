@@ -178,7 +178,7 @@ This project helped in understanding:
 
 ## 👩‍💻 Author
 
-**Priyanka Jadhav**
+**Priyanka Gaikwad**
 
 Information Technology Engineering Student
 

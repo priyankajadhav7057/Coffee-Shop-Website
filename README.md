@@ -8,15 +8,15 @@ A modern, responsive, and visually appealing Coffee Shop Website built using **H
 
 ### Home Page
 
-![Coffee Shop Website Output](screenshot.png)
+![Coffee Shop Website Output](Output-Home-page.png)
 
 The homepage features:
 
-* Attractive hero section
-* Coffee-themed design
-* Responsive navigation bar
-* Call-to-action buttons
-* Modern UI/UX layout
+- Attractive hero section
+- Coffee-themed design
+- Responsive navigation bar
+- Call-to-action buttons
+- Modern UI/UX layout
 
 ---
 
@@ -24,46 +24,46 @@ The homepage features:
 
 ### Navigation
 
-* Responsive navigation bar
-* Smooth scrolling between sections
-* Mobile-friendly menu support
+- Responsive navigation bar
+- Smooth scrolling between sections
+- Mobile-friendly menu support
 
 ### Home Section
 
-* Eye-catching hero banner
-* Coffee-themed branding
-* Call-to-action buttons
+- Eye-catching hero banner
+- Coffee-themed branding
+- Call-to-action buttons
 
 ### About Section
 
-* Information about the coffee shop
-* Professional layout and styling
+- Information about the coffee shop
+- Professional layout and styling
 
 ### Menu Section
 
-* Display of coffee products and offerings
-* Organized card-based layout
+- Display of coffee products and offerings
+- Organized card-based layout
 
 ### Testimonials Section
 
-* Customer reviews and feedback
-* Interactive slider/carousel implementation
+- Customer reviews and feedback
+- Interactive slider/carousel implementation
 
 ### Gallery Section
 
-* Showcase of coffee images
-* Responsive image layout
+- Showcase of coffee images
+- Responsive image layout
 
 ### Contact Section
 
-* Contact information
-* User-friendly design
+- Contact information
+- User-friendly design
 
 ### Responsive Design
 
-* Desktop compatible
-* Tablet compatible
-* Mobile compatible
+- Desktop compatible
+- Tablet compatible
+- Mobile compatible
 
 ---
 
@@ -71,24 +71,24 @@ The homepage features:
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
 ### CSS Concepts
 
-* Flexbox
-* CSS Grid
-* Media Queries
-* Custom Variables
-* Responsive Design
+- Flexbox
+- CSS Grid
+- Media Queries
+- Custom Variables
+- Responsive Design
 
 ### JavaScript Concepts
 
-* DOM Manipulation
-* Event Handling
-* Interactive Components
-* Navigation Functionality
+- DOM Manipulation
+- Event Handling
+- Interactive Components
+- Navigation Functionality
 
 ---
 
@@ -143,36 +143,36 @@ in your browser.
 
 This project helped in understanding:
 
-* Semantic HTML Structure
-* Responsive Web Design
-* CSS Flexbox & Grid
-* JavaScript DOM Manipulation
-* UI/UX Design Principles
-* Cross-Browser Compatibility
-* Project Organization
+- Semantic HTML Structure
+- Responsive Web Design
+- CSS Flexbox & Grid
+- JavaScript DOM Manipulation
+- UI/UX Design Principles
+- Cross-Browser Compatibility
+- Project Organization
 
 ---
 
 ## 📈 Future Improvements
 
-* Online Ordering System
-* Shopping Cart
-* User Authentication
-* Backend Integration
-* Database Connectivity
-* Payment Gateway
-* Dark Mode Support
+- Online Ordering System
+- Shopping Cart
+- User Authentication
+- Backend Integration
+- Database Connectivity
+- Payment Gateway
+- Dark Mode Support
 
 ---
 
 ## 💡 Skills Demonstrated
 
-* Frontend Development
-* Responsive Design
-* Problem Solving
-* User Interface Design
-* JavaScript Programming
-* Website Optimization
+- Frontend Development
+- Responsive Design
+- Problem Solving
+- User Interface Design
+- JavaScript Programming
+- Website Optimization
 
 ---
 

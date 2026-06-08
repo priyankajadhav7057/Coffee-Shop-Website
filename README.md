@@ -180,6 +180,6 @@ This project helped in understanding:
 
 **Priyanka Gaikwad **
 
-Information Technology Engineering 
+Information Technology Engineering Student
 
 GitHub: https://github.com/priyankajadhav7057

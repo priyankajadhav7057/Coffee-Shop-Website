@@ -178,8 +178,8 @@ This project helped in understanding:
 
 ## 👩‍💻 Author
 
-**Priyanka Gaikwad**
+**Priyanka Gaikwad **
 
-Information Technology Engineering Student
+Information Technology Engineering 
 
 GitHub: https://github.com/priyankajadhav7057
